@@ -10,7 +10,7 @@ const apiErrorsLogger = Winston.loggers.get('API_ERRORS');
 
 const ApiPathPrefix = 'api';
 
-//import Table from 'cli-table2';
+//import Table from 'cli-table3';
 //const printRoutes = _.once(routes => {
 //    const table = new Table({head: ['', 'Name', 'Path']});
 //
